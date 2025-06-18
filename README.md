@@ -48,4 +48,4 @@ Memiliki hak akses penuh terhadap sistem. Fitur yang dapat diakses oleh admin me
 - Melihat dan menyusun laporan penjualan
 
 ---
-[anual_Book WEB IOCatering.pdf]https://github.com/miftahnur21/IOCatering-Web-PHP-Native/blob/main/SDD%20%26%20Manual%20Book/Manual_Book%20WEB%20IOCatering.pdf
+[Manual_Book WEB IOCatering.pdf](https://github.com/miftahnur21/IOCatering-Web-PHP-Native/blob/main/SDD%20%26%20Manual%20Book/Manual_Book%20WEB%20IOCatering.pdf)
